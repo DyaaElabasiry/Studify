@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "615412700258",
+    "firebase_url": "https://studify-333-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "studify-333",
+    "storage_bucket": "studify-333.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615412700258:android:38df94be9b0a987df2ed3b",
+        "android_client_info": {
+          "package_name": "com.example.project_test2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615412700258-0ic0l2v1p0p65sh3uoihh9d0mdh10e19.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGh7JfnzESH-QjJINFxfvgEqEuz1AehGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615412700258-0ic0l2v1p0p65sh3uoihh9d0mdh10e19.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615412700258:android:6ce6e95a0a521086f2ed3b",
+        "android_client_info": {
+          "package_name": "com.example.user_studify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615412700258-0ic0l2v1p0p65sh3uoihh9d0mdh10e19.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGh7JfnzESH-QjJINFxfvgEqEuz1AehGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615412700258-0ic0l2v1p0p65sh3uoihh9d0mdh10e19.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
